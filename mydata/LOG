@@ -1,0 +1,33 @@
+2023/01/15-12:20:56.624 355c Recovering log #21
+2023/01/15-12:20:56.624 355c Level-0 table #24: started
+2023/01/15-12:20:56.631 355c Level-0 table #24: 203 bytes OK
+2023/01/15-12:20:56.638 355c Delete type=0 #21
+2023/01/15-12:20:56.638 355c Delete type=3 #19
+=============== Jan 15, 2023 (EET) ===============
+12:23:28.198084 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:23:28.199737 version@stat F·[1 1] S·406B[203B 203B] Sc·[0.25 0.00]
+12:23:28.199737 db@open opening
+12:23:28.199737 journal@recovery F·1
+12:23:28.200840 journal@recovery recovering @25
+12:23:28.203784 memdb@flush created L0@26 N·1 S·141B "name,v6":"name,v6"
+12:23:28.204328 version@stat F·[2 1] S·547B[344B 203B] Sc·[0.50 0.00]
+12:23:28.211249 db@janitor F·5 G·0
+12:23:28.211249 db@open done T·11.5113ms
+=============== Jan 15, 2023 (EET) ===============
+12:29:32.385125 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:29:32.386218 version@stat F·[2 1] S·547B[344B 203B] Sc·[0.50 0.00]
+12:29:32.386218 db@open opening
+12:29:32.386723 journal@recovery F·1
+12:29:32.387332 journal@recovery recovering @27
+12:29:32.388434 version@stat F·[2 1] S·547B[344B 203B] Sc·[0.50 0.00]
+12:29:32.397056 db@janitor F·5 G·0
+12:29:32.397056 db@open done T·10.8381ms
+=============== Jan 15, 2023 (EET) ===============
+12:29:50.350337 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:29:50.351457 version@stat F·[2 1] S·547B[344B 203B] Sc·[0.50 0.00]
+12:29:50.351457 db@open opening
+12:29:50.352014 journal@recovery F·1
+12:29:50.353223 journal@recovery recovering @29
+12:29:50.354288 version@stat F·[2 1] S·547B[344B 203B] Sc·[0.50 0.00]
+12:29:50.360222 db@janitor F·5 G·0
+12:29:50.360759 db@open done T·9.3016ms
